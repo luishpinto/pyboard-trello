@@ -9,5 +9,5 @@
 {"operationID" : "OP-060","description" : "OP-060 | Presence control of the busshings","zone" : "CMO | Assembly-shop -- Zone 1","status" : "running"}
 {"operationID" : "OP-070","description" : "OP-070 | Assembly of the oil-pump","zone" : "CMO | Assembly-shop -- Zone 1","status" : "running"}
 {"operationID" : "OP-080","description" : "OP-080 | 2nd tightening of the oil-carter","zone" : "CMO | Assembly-shop -- Zone 1","status" : "running"}
-{"operationID" : "OP-090","description" : "OP-090 | 1st tightening of the oil-carter"","zone" : "CMO | Assembly-shop -- Zone 1","status" : "running"}
+{"operationID" : "OP-090","description" : "OP-090 | 1st tightening of the oil-carter","zone" : "CMO | Assembly-shop -- Zone 1","status" : "running"}
 {"operationID" : "OP-100","description" : "OP-100 | Assembly of the crankshaft seals","zone" : "CMO | Assembly-shop -- Zone 1","status" : "running"}
