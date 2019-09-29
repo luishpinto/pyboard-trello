@@ -1,14 +1,14 @@
-operationID,description,zone,status
-OP-000,| Cylinder-block alignement dowel pin press,CMO | Assembly-shop -- Zone 1,running
-OP-005,| Cylinder-block serial number printing,CMO | Assembly-shop -- Zone 1,running
-OP-010,| Assembly of the oli-pressure,CMO | Assembly-shop -- Zone 1,running
-OP-020,| Assembly of the crankshaft,CMO | Assembly-shop -- Zone 1,running
-OP-030,| Assembly of the pistons and rods,CMO | Assembly-shop -- Zone 1,running
-OP-040,| Visual-control of the pistons,CMO | Assembly-shop -- Zone 1,running
-OP-050,| 1st tightening of the rods,CMO | Assembly-shop -- Zone 1,running
-OP-055,| 2nd tightening of the rods,CMO | Assembly-shop -- Zone 1,running
-OP-060,| Presence control of the busshings,CMO | Assembly-shop -- Zone 1,running
-OP-070,| Assembly of the oil-pump,CMO | Assembly-shop -- Zone 1,running
-OP-080,| 2nd tightening of the oil-carter,CMO | Assembly-shop -- Zone 1,running
-OP-090,| 1st tightening of the oil-carter,CMO | Assembly-shop -- Zone 1,running
-OP-100,| Assembly of the crankshaft seals,CMO | Assembly-shop -- Zone 1,running
+N,operationID,description,zone,status
+1,OP-000,| Cylinder-block alignement dowel pin press,CMO | Assembly-shop -- Zone 1,running
+2,OP-005,| Cylinder-block serial number printing,CMO | Assembly-shop -- Zone 1,running
+3,OP-010,| Assembly of the oli-pressure,CMO | Assembly-shop -- Zone 1,running
+4,OP-020,| Assembly of the crankshaft,CMO | Assembly-shop -- Zone 1,running
+5,OP-030,| Assembly of the pistons and rods,CMO | Assembly-shop -- Zone 1,running
+6,OP-040,| Visual-control of the pistons,CMO | Assembly-shop -- Zone 1,running
+7,OP-050,| 1st tightening of the rods,CMO | Assembly-shop -- Zone 1,running
+8,OP-055,| 2nd tightening of the rods,CMO | Assembly-shop -- Zone 1,running
+9,OP-060,| Presence control of the busshings,CMO | Assembly-shop -- Zone 1,running
+10,OP-070,| Assembly of the oil-pump,CMO | Assembly-shop -- Zone 1,running
+11,OP-080,| 2nd tightening of the oil-carter,CMO | Assembly-shop -- Zone 1,running
+12,OP-090,| 1st tightening of the oil-carter,CMO | Assembly-shop -- Zone 1,running
+13,OP-100,| Assembly of the crankshaft seals,CMO | Assembly-shop -- Zone 1,running
